@@ -2,7 +2,7 @@
 
 [![npm@latest](https://badgen.net/npm/v/mxn-favicons)](https://www.npmjs.com/package/mxn-favicons)
 [![Install size](https://packagephobia.now.sh/badge?p=mxn-favicons)](https://packagephobia.now.sh/result?p=mxn-favicons)
-[![Downloads](https://img.shields.io/npm/dm/mxn-favicons.svg)](https://npmjs.com/mxn-favicons)
+[![Downloads](https://img.shields.io/npm/dm/mxn-favicons.svg)](https://npmjs.com/package/mxn-favicons)
 
 **mxn-favicons** is a fork of [**connect-favicons**](https://github.com/theworkers/connect-favicons), a simple [**connect**](https://github.com/senchalabs/connect) middleware to serve site icons (favicon.ico and apple-touch-icon.png and all its flavours) from any directory.
 
