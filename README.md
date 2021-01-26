@@ -18,7 +18,7 @@ In this case, you may have all your site icons, including favicon.ico in `/publi
 app.use(favicons(__dirname + "/public/icons"));
 ```
 
-Now any request to the example.com/favicon.ico or example.com/apple-touch-icon.png will be served by MXN Favicons, reading from the folder you specified.
+Now any request to the `example.com/favicon.ico` or `example.com/apple-touch-icon.png` will be served by MXN Favicons, reading from the folder you specified.
 
 Example:
 
