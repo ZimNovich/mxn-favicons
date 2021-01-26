@@ -26,7 +26,7 @@ Example:
 // HTTP server
 const http  = require("http");
 
-// MXN Connect Framework and Middlewares
+// MXN Connect Framework and Middleware
 const connect = require("mxn-connect");
 const favicon = require("mxn-favicons");
 const sstatic = require("serve-static");
