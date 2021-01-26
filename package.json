@@ -1,0 +1,46 @@
+{
+    "name": "mxn-favicons",
+    "main": "mxn-favicons.js",
+    "description": "Serve site icons (favicon and apple-touch-icon) from any directory",
+    "version": "0.7.0",
+    "homepage": "https://github.com/ZimNovich/mxn-favicons",
+    "license": "MIT",
+    "author": {
+        "name": "Ilya Zimnovich",
+        "email": "zimnovich@gmail.com"
+    },
+    "contributors": [
+        {
+            "name": "tmslnz",
+            "email": "t@theworkers.net",
+            "url": "http://theworkers.net/"
+        },
+        {
+            "name": "Ilya Zimnovich",
+            "email": "zimnovich@gmail.com"
+        }
+    ],
+    "keywords": [
+        "favicon",
+        "apple-touch-icon",
+        "icon",
+        "icons",
+        "connect",
+        "mxn-connect",
+        "express",
+        "middleware"
+    ],
+    "dependencies": {
+    },
+    "deprecated": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZimNovich/mxn-favicons"
+    },
+    "bugs": {
+        "url": "https://github.com/ZimNovich/mxn-favicons/issues"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
