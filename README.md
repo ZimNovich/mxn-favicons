@@ -1,6 +1,6 @@
 # mxn-favicons
 
-**mxn-favicons** is a fork of [**connect-favicons**](https://github.com/theworkers/connect-favicons), a simple **connect** middleware to serve site icons (favicon.ico and apple-touch-icon.png and all its flavours) from any directory.
+**mxn-favicons** is a fork of [**connect-favicons**](https://github.com/theworkers/connect-favicons), a simple [**connect**](https://github.com/senchalabs/connect) middleware to serve site icons (favicon.ico and apple-touch-icon.png and all its flavours) from any directory.
 
 ## Install
 
