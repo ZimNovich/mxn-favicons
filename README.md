@@ -1,13 +1,11 @@
 # mxn-favicons
 
-**mxn-favicons** is a fork of [**connect-favicons**](https://github.com/theworkers/connect-favicons), a simple and extensible HTTP server framework for [Node.js](http://nodejs.org) using "plugins" known as **middleware**.
-
-The core of **mxn-connect** is "using" **middleware**. Middleware are added as a "stack" where incoming requests will execute each middleware one-by-one until a middleware does not call `next()` within it.
+**mxn-favicons** is a fork of [**connect-favicons**](https://github.com/theworkers/connect-favicons), a simple **connect** middleware to serve site icons (favicon.ico and apple-touch-icon.png and all its flavours) from any directory.
 
 ## Install
 
 ```
-$ npm install mxn-connect
+$ npm install mxn-favicons
 ```
 
 ## Usage
